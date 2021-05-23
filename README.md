@@ -1,6 +1,8 @@
 # ValveLord
 Tube Overdrive schematic and PCB inspired by famous 12AU7 Valvecaster
+
 Design fits into a 1590B case.
+
 Designed with Kicad, Mock-up projected with Freecad 
 
 
