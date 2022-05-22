@@ -5,6 +5,8 @@ Design fits into a 1590B case.
 
 Designed with Kicad, Mock-up projected with Freecad 
 
+
+![vue](vl.jpg?raw=TRUE "VL")
 ![Schematic](ValveLord.svg?raw=TRUE "SCH")
 ![PCB](ValveLord.png?raw=true "PCB")
 ![Mech](valvelord_bottom.png?raw=true "Overview")
